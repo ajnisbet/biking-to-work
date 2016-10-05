@@ -208,5 +208,4 @@ def lat_lon_distance(from_lat, from_lon, to_lat, to_lon):
 
 
 if __name__ == '__main__':
-    os.makedirs(CACHE_DIR, exist_ok=True)
     main()
