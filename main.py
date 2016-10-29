@@ -6,7 +6,6 @@ from scipy import interpolate
 from scipy import ndimage
 import matplotlib.pyplot as plt
 import numpy as np
-import pandas as pd
 import requests
 
 
